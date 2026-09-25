@@ -28,7 +28,7 @@ This project allows users to store and manage account credentials, as well as ge
 ```text
 PASSWORD-MANAGER-CLI/
 │
-├── main.py
+├── Password_Manager.py
 └── README.md
 ```
 
